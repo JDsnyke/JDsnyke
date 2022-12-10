@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JDsnyke&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDsnyke&show_icons=true)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JDsnyke&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDsnyke&layout=compact&card_width=447)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDsnyke&layout=compact&card_width=447&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDsnyke&layout=compact&card_width=447&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+
+
+
