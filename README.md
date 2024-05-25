@@ -14,10 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JDsnyke&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JDsnyke&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<p align="center">
+ <img width="800" src="https://github.com/JDsnyke/JDsnyke/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDsnyke&layout=compact&card_width=447&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=JDsnyke&show_icons=true&theme=codeSTACKr">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDsnyke&layout=compact&card_width=447&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<p align="center">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDsnyke&layout=compact&card_width=447&theme=codeSTACKr">
+</p>
