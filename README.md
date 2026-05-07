@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=JDsnyke&show_icons=true&theme=codeSTACKr">
+  <img width="600" height="200" src="https://github-stats-extended.vercel.app/api?username=JDsnyke&show_icons=true&theme=codeSTACKr">
 </p>
 
 <p align="center">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDsnyke&layout=compact&card_width=447&theme=codeSTACKr">
+  <img width="500" height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JDsnyke&layout=compact&card_width=447&theme=codeSTACKr">
 </p>
